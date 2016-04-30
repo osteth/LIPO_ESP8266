@@ -7,5 +7,5 @@ This board is based on the sparkfun LIPO charger basic, incorperates an ESP8266-
 SparkFun LiPo Charger Basic - Mini-USB - https://www.sparkfun.com/products/10401
 Lithium Ion Polymer Battery - 2000mAh- https://www.sparkfun.com/products/8483
 
-![board](https://raw.githubusercontent.com/osteth/LIPO_ESP8266/blob/master/board.png)
-![schematic](https://raw.githubusercontent.com/osteth/LIPO_ESP8266/blob/master/shematic.png)
+![board](https://raw.githubusercontent.com/osteth/LIPO_ESP8266/master/board.png)
+![schematic](https://raw.githubusercontent.com/osteth/LIPO_ESP8266/master/shematic.png)
